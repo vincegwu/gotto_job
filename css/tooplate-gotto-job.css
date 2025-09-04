@@ -378,7 +378,7 @@ nav[aria-label="breadcrumb"] {
   CUSTOM BUTTON               
 -----------------------------------------*/
 .custom-btn {
-  background: var(--custom-btn-bg-color);
+  background: #198754;
   border: 2px solid transparent;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
@@ -390,7 +390,7 @@ nav[aria-label="breadcrumb"] {
 
 .custom-btn:hover,
 .navbar-expand-lg .navbar-nav .nav-link.custom-btn:hover {
-  background: var(--secondary-color);
+  background: #0dcaf0;
   color: var(--white-color);
 }
 
