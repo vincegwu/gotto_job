@@ -1555,3 +1555,12 @@ nav[aria-label="breadcrumb"] {
   }
 }
 
+.hero-tagline-bold {
+    font-weight: 900;
+    font-size: 2rem;
+    background: linear-gradient(90deg, #ff512f, #dd2476, #1fa2ff, #fbc2eb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: 2px;
+}
